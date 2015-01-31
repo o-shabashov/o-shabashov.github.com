@@ -3,7 +3,7 @@ layout: post
 title: "Yii2 search in ActiveDataProvider"
 description: "How-to search by where in ActiveDataProvider, Yii2"
 category: Yii2
-tags: [yii2, activeDataProvider, search]
+tags: [Yii2, ActiveDataProvider, search]
 ---
 {% include JB/setup %}
 

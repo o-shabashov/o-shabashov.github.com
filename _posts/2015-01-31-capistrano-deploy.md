@@ -3,7 +3,7 @@ layout: post
 title: Simple capistrano deploy
 description: Настроить деплой проекта на удаленный сервер 
 category: Deploy
-tags: [capistrano, apache, gem, git, git-submodules]
+tags: [Capistrano, Apache, gem, git, git-submodules]
 ---
 {% include JB/setup %}
 
