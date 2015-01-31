@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Eat, sleep, work, repeat
+description: Oleg Shabashov. Personal blog.
 tagline: Latest posts
 ---
 {% include JB/setup %}
