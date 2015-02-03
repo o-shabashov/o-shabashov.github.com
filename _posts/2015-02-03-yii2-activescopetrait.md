@@ -7,7 +7,7 @@ tags: [Yii2, ActiveQuery, Yii2VM, scope]
 ---
 {% include JB/setup %}
 
->First of all, install [Yii2VM](//{{site.host}}/pages/yii2-voodoo-mobile.html)
+>First of all, install [Yii2VM](https://o-shabashov.github.io/pages/yii2-voodoo-mobile.html)
 
 The preferred way to install this extensions is through [composer](http://getcomposer.org/download/).
 
